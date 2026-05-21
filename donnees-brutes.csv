@@ -1,0 +1,46 @@
+variable,categorie,pourcentage
+Profession,Infirmier(ère)s,40
+Profession,TSAR,35
+Profession,Médecins,20
+Profession,Autres,5
+Service,Réanimation,45
+Service,Bloc opératoire,38
+Service,Urgences,10
+Service,Médecine,7
+Age,25-35 ans,58.3
+Age,36-45 ans,25
+Age,>45 ans,10
+Age,<25 ans,6.7
+Anciennete,2-5 ans,33.3
+Anciennete,>10 ans,31.7
+Anciennete,<2 ans,20
+Anciennete,6-10 ans,15
+Substances,Cannabis,74
+Substances,Alcool,69
+Substances,Cocaine,66
+Substances,Benzodiazepines,40
+Substances,Opioides,32
+Difficultes,Risque de sevrage,58
+Difficultes,Non-cooperation,57
+Difficultes,Gestion de la douleur,53
+Difficultes,Communication,48
+Difficultes,Manque de protocoles,38
+Difficultes,Stigmatisation,13
+Complications,Agitation,80
+Complications,Sevrage,67
+Complications,Douleur,57
+Complications,Hemodynamiques,48
+Complications,Intubation,23
+Stigmatisation,Oui,48
+Stigmatisation,Parfois,40
+Stigmatisation,Non,7
+Attitude,Neutre,60
+Attitude,Stressee,23
+Attitude,Mefiante,22
+Attitude,Empathique,20
+Protocole,Absent,53
+Protocole,Present,42
+Protocole,Ne sait pas,5
+Formation_continue,Oui,75
+Formation_continue,Peut-etre,15
+Formation_continue,Non,10
